@@ -4,8 +4,9 @@ This is a simple application built using SwiftUI which is pulling data from [thi
 
 # Screenshots
 
-![Main Page](/Screenshots/Home\ Page.png)
-![Countries List](/Screenshots/Countries\ List.png)
+Global Overview             |  List of Countries
+:-------------------------:|:-------------------------:
+![Main Page](https://github.com/nihaal419/Covid-19-Tracker/raw/master/Screenshots/Home%20Page.png)  |  ![Countries List](https://github.com/nihaal419/Covid-19-Tracker/raw/master/Screenshots/Countries%20List.png)
 
 # Credits
 
